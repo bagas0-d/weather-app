@@ -1,0 +1,18 @@
+buatkan issue.md, berisi planning untuk membuat ini:
+
+buat project baru di folder ini, sertakan juga asset dan desain yg sudah ada.
+
+buat project menggunakan vite + react + typescript
+
+library yg digunakan:
+- shadcn ui
+- tailwindcss
+- tanstack query
+- react hook form
+- zustand
+
+jangan terlalu detail atau low level
+
+cukup instruksikan secara high level
+
+dokumen planning ini akan diserahkan kepada programmer atau model yang lebih murah untuk di implementasi
