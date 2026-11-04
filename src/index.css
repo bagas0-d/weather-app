@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Base styles */
+body {
+  margin: 0;
+  font-family: system-ui, 'Segoe UI', Roboto, sans-serif;
+}
+
